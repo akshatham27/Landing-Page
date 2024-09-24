@@ -2,7 +2,7 @@
 A landing page is a focused, standalone webpage designed to capture visitor attention and guide them toward a specific action, such as signing up for a service, purchasing a product, or learning more about an offering. When developed using HTML and CSS, a landing page typically includes the following key elements:
  HTML Structure and Semantics:
 
-    HTML5 Tags: Use of modern, semantic HTML5 elements like <header>, <nav>, <section>, <article>, and <footer> to ensure the page is well-structured and accessible for both users and search engines.
+    HTML5 Tags: Use of modern, semantic HTML5 elements like <header>, <nav>, <section>, <article> and <footer> to ensure the page is well-structured and accessible for both users and search engines.
 
     SEO Considerations:
         Proper use of heading tags (<h1> to <h6>) with meaningful, keyword-rich content.
